@@ -1,0 +1,26 @@
+verde claro #048C3F
+verde médio #0C592E
+verde escuro #134026
+cinza #D9D9D9
+preto #0D0D0D
+
+/* Color Theme Swatches in Hex */
+.Design-gráfico-1-hex { color: #048C3F; }
+.Design-gráfico-2-hex { color: #0C592E; }
+.Design-gráfico-3-hex { color: #134026; }
+.Design-gráfico-4-hex { color: #D9D9D9; }
+.Design-gráfico-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.Design-gráfico-1-rgba { color: rgba(4, 140, 63, 1); }
+.Design-gráfico-2-rgba { color: rgba(12, 89, 45, 1); }
+.Design-gráfico-3-rgba { color: rgba(19, 63, 38, 1); }
+.Design-gráfico-4-rgba { color: rgba(216, 216, 216, 1); }
+.Design-gráfico-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Design-gráfico-1-hsla { color: hsla(146, 94, 28, 1); }
+.Design-gráfico-2-hsla { color: hsla(146, 75, 19, 1); }
+.Design-gráfico-3-hsla { color: hsla(146, 53, 16, 1); }
+.Design-gráfico-4-hsla { color: hsla(0, 0, 85, 1); }
+.Design-gráfico-5-hsla { color: hsla(0, 0, 5, 1); }
